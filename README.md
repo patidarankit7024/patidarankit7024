@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Patidar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" width="400" alt="coding" src="C:\Users\ankit\OneDrive\Desktop\Ganeshk750.htm">
+<img align="right" width="400" alt="coding" src="C:\Users\ankit\OneDrive\Desktop\Ganeshk750.html">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patidarankit7024&label=Profile%20views&color=0e75b6&style=flat" alt="patidarankit7024" /> </p>
 
